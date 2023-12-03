@@ -1,6 +1,6 @@
 namespace GitOut
 {
-    public class WeatherForecast
+    public class NameController
     {
         public DateTime Date { get; set; }
 
